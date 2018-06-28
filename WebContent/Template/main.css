@@ -1,0 +1,75 @@
+@charset "EUC-KR";
+
+ div.right {
+    position: fixed;
+    left: 280px;
+    bottom:30px;
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    
+  }
+  div.left {
+    position: fixed;
+    right: 280px;
+    bottom:30px;
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+  }
+  
+  #join {
+    position :relative;
+    left: 200px;
+    
+  }
+  #login1{
+    position :relative;
+    left: 230px;
+  }
+  #basket {
+    position :relative;
+    left: 260px;
+  }
+  #order {
+    position :relative;
+    left: 290px;
+  }
+  #faq {
+    position :relative;
+    right: 290px;
+  }
+  #review {
+    position :relative;
+    right: 260px;
+  }
+ div#menu {
+ 
+   background: #1c205f;
+   height: 100px;
+   width:100%;
+   align:center;
+   float:left;
+   
+   
+  }
+ .sub{
+   
+   text-decoration: none;
+   color: white;
+   font-size: 20px;
+   font-weight: bold;
+  }
+  ul {
+  	list-style:none; 
+  	padding-top:20px;
+  	padding-left:23%; 
+  }
+  ul>li {
+  	float:left; 
+  	margin-right:100px; 
+  }
+  
+  
+  
+  
