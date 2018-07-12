@@ -3,41 +3,41 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-    <title>∞Ê±‚ ∞·∞˙ øπ√¯::«≤∫ºµ•¿Ã</title><link rel="stylesheet" type="text/css" href="toto.css">
+    <title>Í≤ΩÍ∏∞ Í≤∞Í≥º ÏòàÏ∏°</title><link rel="stylesheet" type="text/css" href="toto.css">
 </head>
 <body>
-<%--ªÛ¥‹ ∏ﬁ¥∫--%>
+<%--ÏÉÅÎã® Î©îÎâ¥--%>
 <table width="960" height="200" align="center">
  <tr>
   <td height="43" align="center"  >
      <a class="left" id="faq" href="#">FAQ</a>
      <a class="left" id="review" href="#">Review</a>
      
-     <a class="right" id="agree" href="agree.jsp">»∏ø¯∞°¿‘</a>
-     <a class="right" id="login1" href="login.jsp">∑Œ±◊¿Œ</a>
-     <a class="right" id="basket" href="#">¿ÂπŸ±∏¥œ</a>
-     <a class="right" id="order" href="#">¡÷πÆ¡∂»∏</a>
-    <%--∑Œ∞Ì ¿ÃπÃ¡ˆ--%>
+     <a class="right" id="agree" href="agree.jsp">ÌöåÏõêÍ∞ÄÏûÖ</a>
+     <a class="right" id="login1" href="login.jsp">Î°úÍ∑∏Ïù∏</a>
+     <a class="right" id="basket" href="#">Ïû•Î∞îÍµ¨Îãà</a>
+     <a class="right" id="order" href="#">Ï£ºÎ¨∏Ï°∞Ìöå</a>
+    <%--Î°úÍ≥† Ïù¥ÎØ∏ÏßÄ--%>
     <jsp:include page="top.jsp"/>   
   </td>
  </tr>
 </table>
- <%--∏ﬁ¥∫--%>
+ <%--Î©îÎâ¥--%>
 <table width="1600"  align="center">
  <tr id="menu" >
   <td align="left" width="100%">
-   <a class="sub" id="site" href="siteInfo">ªÁ¿Ã∆Æ º“∞≥</a>
-   <a class="sub" id="club" href="clubMall">≈¨∑¥∏Ù</a>
-   <a class="sub" id="view" href="groupViewing">¥‹√º ∞¸∂˜</a>
-   <a class="sub" id="sale" href="sale">∆Ø∫∞ ºº¿œ</a>
-    <a class="sub" id="event" href="event.jsp">¿Ã∫•∆Æ</a>
+   <a class="sub" id="site" href="siteInfo">ÏÇ¨Ïù¥Ìä∏ ÏÜåÍ∞ú</a>
+   <a class="sub" id="club" href="clubMall">ÌÅ¥ÎüΩÎ™∞</a>
+   <a class="sub" id="view" href="groupViewing">Îã®Ï≤¥ Í¥ÄÎûå</a>
+   <a class="sub" id="sale" href="sale">ÌäπÎ≥Ñ ÏÑ∏Ïùº</a>
+    <a class="sub" id="event" href="event.jsp">Ïù¥Î≤§Ìä∏</a>
   </td>
  </tr>
 </table>
- <%--∏ﬁ¿Œ ≥ªøÎ--%>
+ <%--Î©îÏù∏ ÎÇ¥Ïö©--%>
   <div id="banner" align="center">
    <img src="<%=request.getContextPath()%>/image/banner2.jpg" width="1000" height="110" >
- </div> <%--¿”Ω√ ¿ÃπÃ¡ˆ --%>
+ </div> <%--ÏûÑÏãú Ïù¥ÎØ∏ÏßÄ --%>
  <br>
  <br>
     <div class="scroll_view">
@@ -47,7 +47,7 @@
                     
                     <form id="choiceForm" >
                         <table class="tb_poll_bx">
-                            <caption>4∞Ê±‚ ∞·∞˙ øπ√¯</caption>
+                            <caption>4Í≤ΩÍ∏∞ Í≤∞Í≥º ÏòàÏ∏°</caption>
                             <colgroup>
                                 <col style="width:38px">
                                 <col style="width:*">
@@ -57,63 +57,63 @@
                             </colgroup>
                             <thead>
                             <tr>
-                                <th>º±≈√</th>
-                                <th>∞Ê±‚±∏∫–</th>
-                                <th colspan="3">∞·∞˙øπ√¯</th>
+                                <th>ÏÑ†ÌÉù</th>
+                                <th>Í≤ΩÍ∏∞Íµ¨Î∂Ñ</th>
+                                <th colspan="3">Í≤∞Í≥ºÏòàÏ∏°</th>
                             </tr>
                             </thead>
                             <tbody>
                             <tr class="_choice_root ">
 
                                     <td><input type="checkbox" id="league1" class="selected_choice"  ></td>
-                                    <td class="league"><label for="league1" title="5/19(≈‰)«¡∏Æ∏ﬁ∂Û∏Æ∞°"><span class="ellp">7/14(≈‰)«¡∏Æ∏ﬁ∂Û∏Æ∞°</span></label></td>
+                                    <td class="league"><label for="league1" title="5/19(ÌÜ†)ÌîÑÎ¶¨Î©îÎùºÎ¶¨Í∞Ä"><span class="ellp">7/14(ÌÜ†)ÌîÑÎ¶¨Î©îÎùºÎ¶¨Í∞Ä</span></label></td>
 
                                     <td class="team1">
                                         <div class="inp_wrap">
                                             <input type="radio" name="league1" id="team1_1" class="inp_radio"value="team1"  >
-                                            <label for="team1_1" class="_lable_choice _lable_team1" title="ºø≈∏"><span class="ellp">ºø≈∏</span></label>
-                                            <!--<span class="ico_ans"><span><span class="arw"></span>¡§¥‰</span></span>-->
+                                            <label for="team1_1" class="_lable_choice _lable_team1" title="ÏÖÄÌÉÄ"><span class="ellp">ÏÖÄÌÉÄ</span></label>
+                                            <!--<span class="ico_ans"><span><span class="arw"></span>Ï†ïÎãµ</span></span>-->
                                             </div>
                                     </td>
 
                                      <td class="draw">
                                         <div class="inp_wrap">
                                             <input type="radio" name="league1" id="draw1" class="inp_radio"  value="draw"  >
-                                            <label for="draw1" class="_lable_choice _lable_draw ">π´Ω¬∫Œ</label>
+                                            <label for="draw1" class="_lable_choice _lable_draw ">Î¨¥ÏäπÎ∂Ä</label>
                                             </div>
                                     </td>
 
                                     <td class="team2">
                                         <div class="inp_wrap">
                                             <input type="radio" name="league1" id="team2_1" class="inp_radio" value="team2"  >
-                                            <label for="team2_1" class="_lable_choice _lable_team2 " title="∑ππ›≈◊"><span class="ellp">∑ππ›≈◊</span></label>
+                                            <label for="team2_1" class="_lable_choice _lable_team2 " title="Î†àÎ∞òÌÖå"><span class="ellp">Î†àÎ∞òÌÖå</span></label>
                                             </div>
                                     </td>
                                 	
                                 <tr class="_choice_root">
 
                                     <td><input type="checkbox" id="league2" class="_choice"></td>
-                                    <td class="league"><label for="league2" title="5/20(¿œ)∏Æ±◊æ”"><span class="ellp">7/15(¿œ)∏Æ±◊æ”</span></label></td>
+                                    <td class="league"><label for="league2" title="5/20(Ïùº)Î¶¨Í∑∏Ïïô"><span class="ellp">7/15(Ïùº)Î¶¨Í∑∏Ïïô</span></label></td>
 
                                     <td class="team1">
                                         <div class="inp_wrap">
                                             <input type="radio" name="league2" id="team1_2" class="inp_radio" value="team1"  >
-                                            <label for="team1_2" class="_lable_choice _lable_team1 " title="ƒ≤"><span class="ellp">ƒ≤</span></label>
+                                            <label for="team1_2" class="_lable_choice _lable_team1 " title="Ï∫â"><span class="ellp">Ï∫â</span></label>
                                        	</div>
                                     </td>
 
                                     <td class="draw">
 										<div class="inp_wrap">
                                             <input type="radio" name="league2" id="draw2" class="inp_radio" value="draw"  >
-                                            <label for="draw2" class="_lable_choice _lable_draw ">π´Ω¬∫Œ</label>
-                                            <!--<span class="ico_ans"><span><span class="arw"></span>¡§¥‰</span></span>-->
+                                            <label for="draw2" class="_lable_choice _lable_draw ">Î¨¥ÏäπÎ∂Ä</label>
+                                            <!--<span class="ico_ans"><span><span class="arw"></span>Ï†ïÎãµ</span></span>-->
                                             </div>
                                     </td>
 
                                     <td class="team2">
                                         <div class="inp_wrap">
                                             <input type="radio" name="league2" id="team2_2" class="inp_radio" value="team2"  >
-                                            <label for="team2_2" class="_lable_choice _lable_team2 " title="∆ƒ∏Æ ª˝¡¶∏£∏Õ"><span class="ellp">∆ƒ∏Æ ª˝¡¶∏£∏Õ</span></label>
+                                            <label for="team2_2" class="_lable_choice _lable_team2 " title="ÌååÎ¶¨ ÏÉùÏ†úÎ•¥Îßπ"><span class="ellp">ÌååÎ¶¨ ÏÉùÏ†úÎ•¥Îßπ</span></label>
                                             </div>
                                     </td>
                                 </tr>
@@ -121,27 +121,27 @@
                                 <tr class="_choice_root">
 
                                 	<td><input type="checkbox" id="league3" class="_choice" ></td>
-                                	<td class="league"><label for="league3" title="5/20(¿œ)K∏Æ±◊"><span class="ellp">7/15(¿œ)K∏Æ±◊</span></label></td>
+                                	<td class="league"><label for="league3" title="5/20(Ïùº)KÎ¶¨Í∑∏"><span class="ellp">7/15(Ïùº)KÎ¶¨Í∑∏</span></label></td>
 
                                     <td class="team1">
                                         <div class="inp_wrap">
                                         	<input type="radio" name="league3" id="team1_3" class="inp_radio"  >
-                                            <label for="team1_3" class="_lable_choice _lable_team1 " title="¿Œ√µ"><span class="ellp">¿Œ√µ</span></label>
+                                            <label for="team1_3" class="_lable_choice _lable_team1 " title="Ïù∏Ï≤ú"><span class="ellp">Ïù∏Ï≤ú</span></label>
                                             </div>
                                     </td>
 
                                     <td class="draw">
                                         <div class="inp_wrap">
                                             <input type="radio" name="league3" id="draw3" class="inp_radio"  value="draw"  >
-                                            <label for="draw3" class="_lable_choice _lable_draw ">π´Ω¬∫Œ</label>
-                                            <!--<span class="ico_ans"><span><span class="arw"></span>¡§¥‰</span></span>-->
+                                            <label for="draw3" class="_lable_choice _lable_draw ">Î¨¥ÏäπÎ∂Ä</label>
+                                            <!--<span class="ico_ans"><span><span class="arw"></span>Ï†ïÎãµ</span></span>-->
                                             </div>
                                     </td>
 
                                     <td class="team2">
                                         <div class="inp_wrap">
                                             <input type="radio" name="league3" id="team2_3" class="inp_radio" value="team2"  >
-                                            <label for="team2_3" class="_lable_choice _lable_team2 " title="øÔªÍ"><span class="ellp">øÔªÍ</span></label>
+                                            <label for="team2_3" class="_lable_choice _lable_team2 " title="Ïö∏ÏÇ∞"><span class="ellp">Ïö∏ÏÇ∞</span></label>
                                             </div>
                                     </td>
                                 </tr>
@@ -149,27 +149,27 @@
                                 <tr class="_choice_root last">
 
                                     <td><input type="checkbox" id="league4" class="_choice" ></td>
-                                    <td class="league"><label for="league4" title="5/21(ø˘)ºº∏Æø° A"><span class="ellp">7/16(ø˘)ºº∏Æø° A</span></label></td>
+                                    <td class="league"><label for="league4" title="5/21(Ïõî)ÏÑ∏Î¶¨Ïóê A"><span class="ellp">7/16(Ïõî)ÏÑ∏Î¶¨Ïóê A</span></label></td>
 
                                     <td class="team1">
                                         <div class="inp_wrap">
                                             <input type="radio" name="league4" id="team1_4" class="inp_radio" value="team1"  >
-                                            <label for="team1_4" class="_lable_choice _lable_team1 " title="π–∂ı"><span class="ellp">π–∂ı</span></label>
-                                            <!--<span class="ico_ans"><span><span class="arw"></span>¡§¥‰</span></span>-->
+                                            <label for="team1_4" class="_lable_choice _lable_team1 " title="Î∞ÄÎûÄ"><span class="ellp">Î∞ÄÎûÄ</span></label>
+                                            <!--<span class="ico_ans"><span><span class="arw"></span>Ï†ïÎãµ</span></span>-->
                                             </div>
                                     </td>
 
                                     <td class="draw">
                                         <div class="inp_wrap">
                                             <input type="radio" name="league4" id="draw4" class="inp_radio" value="draw"  >
-                                            <label for="draw4" class="_lable_choice _lable_draw ">π´Ω¬∫Œ</label>
+                                            <label for="draw4" class="_lable_choice _lable_draw ">Î¨¥ÏäπÎ∂Ä</label>
                                             </div>
                                     </td>
 
                                     <td class="team2">
                                         <div class="inp_wrap">
                                             <input type="radio" name="league4" id="team2_4" class="inp_radio" value="team2"  >
-                                            <label for="team2_4" class="_lable_choice _lable_team2 " title="««ø¿∑ª∆º≥™"><span class="ellp">««ø¿∑ª∆º≥™</span></label>
+                                            <label for="team2_4" class="_lable_choice _lable_team2 " title="ÌîºÏò§Î†åÌã∞ÎÇò"><span class="ellp">ÌîºÏò§Î†åÌã∞ÎÇò</span></label>
                                             </div>
                                     </td>
                                 </tr>
@@ -180,10 +180,10 @@
 
                 <div id="btn_area" class="poll_btn_wrap">
                     <ul class="notice">
-                        <li>º±≈√«— ∞Ê±‚ ¡ﬂ, 1∞Ê±‚∂Ûµµ ∆≤∏Æ∏È ø¿¥‰ √≥∏ÆµÀ¥œ¥Ÿ.</li>
-                        <li>∞Ê±‚∞° ø¨¿Â¿¸ø° µπ¿‘«— ∞ÊøÏ, «ÿ¥Á∞Ê±‚¥¬ π´Ω¬∫Œ √≥∏ÆµÀ¥œ¥Ÿ.</li>
+                        <li>ÏÑ†ÌÉùÌïú Í≤ΩÍ∏∞ Ï§ë, 1Í≤ΩÍ∏∞ÎùºÎèÑ ÌãÄÎ¶¨Î©¥ Ïò§Îãµ Ï≤òÎ¶¨Îê©ÎãàÎã§.</li>
+                        <li>Í≤ΩÍ∏∞Í∞Ä Ïó∞Ïû•Ï†ÑÏóê ÎèåÏûÖÌïú Í≤ΩÏö∞, Ìï¥ÎãπÍ≤ΩÍ∏∞Îäî Î¨¥ÏäπÎ∂Ä Ï≤òÎ¶¨Îê©ÎãàÎã§.</li>
                     </ul>
-                    <button class="btn_poll">∞·∞˙¡¶√‚</button>
+                    <button class="btn_poll">Í≤∞Í≥ºÏ†úÏ∂ú</button>
                                 </div>
                 <div class="tb_reward_wrap">
                     <table id="reward_guide" class="tb_reward">
@@ -194,33 +194,33 @@
                         </colgroup>
                         <thead>
                         <tr>
-                            <th colspan="2">øπ√¯ º∫∞¯ ∫∏ªÛ</th>
-                            <th>«ˆ¿Á ªÛ≈¬</th>
+                            <th colspan="2">ÏòàÏ∏° ÏÑ±Í≥µ Î≥¥ÏÉÅ</th>
+                            <th>ÌòÑÏû¨ ÏÉÅÌÉú</th>
                         </tr>
                         </thead>
                         <tbody>
                         <tr class="_choice_cnt ">
-                                <td class="num_suc">1∞Ê±‚ º∫∞¯</td>
+                                <td class="num_suc">1Í≤ΩÍ∏∞ ÏÑ±Í≥µ</td>
                                 <td class="reward">100P</td>
-                                <td rowspan="4" class="desc fail"><p>∞Ê±‚ø° ¥Î«— øπ√¯¿ª ¡¶√‚«œ¡ˆ æ ¿∏ºÃΩ¿¥œ¥Ÿ.</p></td>
+                                <td rowspan="4" class="desc fail"><p>Í≤ΩÍ∏∞Ïóê ÎåÄÌïú ÏòàÏ∏°ÏùÑ Ï†úÏ∂úÌïòÏßÄ ÏïäÏúºÏÖ®ÏäµÎãàÎã§.</p></td>
                                                 </tr>
                         <tr class="_choice_cnt ">
-                                <td class="num_suc">2∞Ê±‚ º∫∞¯</td>
+                                <td class="num_suc">2Í≤ΩÍ∏∞ ÏÑ±Í≥µ</td>
                                 <td class="reward">300P</td>
                                 </tr>
                         <tr class="_choice_cnt ">
-                                <td class="num_suc">3∞Ê±‚ º∫∞¯</td>
+                                <td class="num_suc">3Í≤ΩÍ∏∞ ÏÑ±Í≥µ</td>
                                 <td class="reward">500P</td>
                                 </tr>
                         <tr class="_choice_cnt ">
-                                <td class="num_suc">4∞Ê±‚ º∫∞¯</td>
+                                <td class="num_suc">4Í≤ΩÍ∏∞ ÏÑ±Í≥µ</td>
                                 <td class="reward">600P</td>
                                 </tr>
                         </tbody>
                     </table>
                 </div>
                 <ul class="notice">
-                    <li>øπ√¯ º∫∞¯ Ω√ 2018≥‚ 7ø˘ 16¿œ(ø˘) 12:00 ¿Ã»ƒ ∫∏ªÛ πﬁ±‚∞° ∞°¥… «’¥œ¥Ÿ.</li>
+                    <li>ÏòàÏ∏° ÏÑ±Í≥µ Ïãú 2018ÎÖÑ 7Ïõî 16Ïùº(Ïõî) 12:00 Ïù¥ÌõÑ Î≥¥ÏÉÅ Î∞õÍ∏∞Í∞Ä Í∞ÄÎä• Ìï©ÎãàÎã§.</li>
                 </ul>
             </div>
             
